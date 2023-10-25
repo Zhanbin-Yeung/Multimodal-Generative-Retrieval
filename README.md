@@ -1,1 +1,1 @@
-# Bennett-Yeung-Multimodal-Generative-Retrieval
+# Multimodal-Generative-Retrieval
